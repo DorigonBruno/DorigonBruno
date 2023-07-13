@@ -15,4 +15,3 @@
 </div><br>
 
 Futuro dev front-end, estudante de tecnologia e amante de games.
-
