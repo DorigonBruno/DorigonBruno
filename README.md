@@ -1,6 +1,6 @@
 ### Olá! eu sou Bruno Dorigon 👋
 
-Tudo bem? Fica a vontade! vamos tomar um café, conversar ☕
+<p>Tudo bem? Fica a vontade! vamos tomar um café, conversar ☕</p>
 
 ### Tecnologias 🚀
 
@@ -15,8 +15,9 @@ Tudo bem? Fica a vontade! vamos tomar um café, conversar ☕
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&layout=donut-vertical)](https://github.com/DorigonBruno/github-readme-stats)
 
-Futuro dev front-end, estudante de tecnologia e amante de games.
-
 ### Redes sociais / Contato 💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-santos-dorigon-63b54a219/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bdorigon/)
+
+<p>Futuro dev front-end, estudante de tecnologia e amante de games.
+</p>
