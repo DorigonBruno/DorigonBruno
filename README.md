@@ -13,7 +13,7 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&layout=donut-vertical)](https://github.com/DorigonBruno/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&layout=donut)](https://github.com/DorigonBruno/github-readme-stats)
 
 ### Redes sociais / Contato 💻
 
