@@ -18,16 +18,16 @@
 ### Redes sociais / Contato 💻
 
 <div>
-  <a href="https://www.linkedin.com/in/bruno-santos-dorigon-63b54a219/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-santos-dorigon-63b54a219/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
   
-  <a href="https://www.instagram.com/bdorigon/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://www.instagram.com/bdorigon/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
   </a>
   
-  <a href="mailto:bdorigonb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:bdorigonb@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
 </div>
 
