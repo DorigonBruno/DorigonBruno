@@ -11,13 +11,15 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula" alt="" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&layout=compact&langs_count=7&theme=dracula" alt="" />
+</div>
 
 ### Redes sociais / Contato 💻
 
-<div style="display: flex; gap: 4px">
+<div style="display: flex; gap: 2px">
   <a href="https://www.linkedin.com/in/bruno-santos-dorigon-63b54a219/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
