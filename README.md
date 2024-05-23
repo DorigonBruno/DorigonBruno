@@ -11,12 +11,10 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div><br>
 
-<div>
-
+<div style="display: flex">
 <img src="https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=onedark" alt="" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&layout=donut" alt="" />
-
 </div>
 
 ### Redes sociais / Contato 💻
