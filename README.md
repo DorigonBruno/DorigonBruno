@@ -1,4 +1,4 @@
-### Olá! eu sou Bruno Dorigon 👋
+c### Olá! eu sou Bruno Dorigon 👋
 
 <p>Tudo bem? Fica a vontade! vamos tomar um café, conversar ☕</p>
 
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div><br>
 
-<div style="display: flex; align-item: center">
+<div style="display: flex; align-item: center; gap: 10px">
 <img src="https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=onedark" alt="" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&layout=donut" alt="" />
@@ -19,7 +19,7 @@
 
 ### Redes sociais / Contato 💻
 
-<div>
+<div style="display: flex; gap: 4px">
   <a href="https://www.linkedin.com/in/bruno-santos-dorigon-63b54a219/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
