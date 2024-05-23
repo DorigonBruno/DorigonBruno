@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div><br>
 
-<div style="display: flex; gap: 4px; align-items: center;">
+<div style="display: flex; flex-direction:column;align-items: start; gap: 4px">
   <img style="height: 160px;" style="height: 157px" src="https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula" alt="" />
 
   <img style="height: 160px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&layout=compact&langs_count=7&theme=dracula" alt="" />
