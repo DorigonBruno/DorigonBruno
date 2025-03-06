@@ -20,7 +20,7 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 
 ### Stacks 🚀
 
-<div style="display: flex; gap: 4px; margin-bottom: 20px">
+<div style="display: flex; gap: 4px; margin-bottom: 14px">
 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
@@ -37,6 +37,7 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula" alt="" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&layout=compact&langs_count=7&theme=dracula" alt="" />
+  <div style="display: flex; flex-direction: column; gap: 10px">
+    <img style="width: 100%; max-width: 500px" src="https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula" alt="" />
+    <img style="width: 100%; max-width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&layout=compact&langs_count=7&theme=dracula" alt="" />
+  </div>
