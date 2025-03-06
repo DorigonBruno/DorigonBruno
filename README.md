@@ -6,18 +6,6 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 
 </p>
 
-### Contato 💻
-
-<div style="display: flex; gap: 2px">
-  <a href="https://www.linkedin.com/in/bruno-santos-dorigon-63b54a219/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="mailto:bdorigonb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
 ### Stacks 🚀
 
 <div style="display: flex; gap: 2px; margin-bottom: 14px">
@@ -40,3 +28,19 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=onedark)
 
 ![Bruno Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&show_icons=true&theme=onedark)
+
+### Contato ☎️📧
+
+<div style="display: flex; gap: 4px">
+  <a href="https://www.linkedin.com/in/bruno-santos-dorigon-63b54a219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="mailto:bdorigonb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="tel:19-998309308">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</div>
