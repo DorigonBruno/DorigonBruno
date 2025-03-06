@@ -6,21 +6,6 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 
 </p>
 
-<<<<<<< HEAD
-=======
-### Contato 💻
-
-<div style="display: flex; gap: 2px">
-  <a href="https://www.linkedin.com/in/bruno-santos-dorigon-63b54a219/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="mailto:bdorigonb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
->>>>>>> 3fd3e01950d2f255974c137473eb98a7c9ea54cb
 ### Stacks 🚀
 
 <div style="display: flex; gap: 2px; margin-bottom: 14px">
