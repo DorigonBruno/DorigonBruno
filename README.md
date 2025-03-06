@@ -25,8 +25,10 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Badge Git">
 </div>
 
+<p>
+  
 ![Bruno Dorigon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula)
-
+</p>
 
 ![Bruno Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&show_icons=true&theme=dracula)
 
