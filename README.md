@@ -8,7 +8,7 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 
 ### Stacks 🚀
 
-<div style="display: flex; gap: 2px; margin-bottom: 14px">
+<div style="display: flex; gap: 2px">
 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Badge React">
 
