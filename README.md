@@ -52,10 +52,10 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula" width="400" alt="Bruno Dorigon's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula" width="400"  height="200" alt="Bruno Dorigon's GitHub stats">
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&show_icons=true&theme=dracula" width="400" alt="Bruno Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&show_icons=true&theme=dracula" width="400"  height="300" alt="Bruno Most Used Languages">
 
 </div>
