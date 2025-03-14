@@ -1,4 +1,8 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=7CD5FF&width=435&lines=Ol%C3%A1!+eu+sou+Bruno+Dorigon+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+</div>
 
 <p>Desenvolvedor FrontEnd, Estudante de tecnologia e amante de games e animes nas horas vagas!
 
@@ -10,9 +14,9 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 
 ### Stacks 🚀
 
-<div style="display: flex; gap: 2px;">
+<div style="max-width: 600px; display: flex; flex-wrap: wrap; gap: 3px;margin-bottom: 50px">
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Badge React" style="display: block;" >
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Badge React">
 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Badge TypeScript">
 
@@ -26,9 +30,6 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Badge Git">
 </div>
-
-<p>
-
 
 ### Contato ☎️📧
 
@@ -45,10 +46,14 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
+<br />
 
----
+<h3 align="center">GitHub Stats</h3>
 
-![Bruno Dorigon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula)
-</p>
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
 
-![Bruno Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&show_icons=true&theme=dracula)
+  <img src="https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula" width="400" alt="Bruno Dorigon's GitHub stats">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&show_icons=true&theme=dracula" width="400" alt="Bruno Most Used Languages">
+
+</div>
