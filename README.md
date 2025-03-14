@@ -50,9 +50,11 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 
 <h3 align="center">GitHub Stats</h3>
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
+<div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula" width="400" alt="Bruno Dorigon's GitHub stats">
+
+  <br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&show_icons=true&theme=dracula" width="400" alt="Bruno Most Used Languages">
 
