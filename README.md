@@ -8,9 +8,9 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 
 ### Stacks 🚀
 
-<div style="display: flex; gap: 2px">
+<div style="display: flex; gap: 2px;">
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Badge React">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Badge React" style="display: block;" >
 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Badge TypeScript">
 
@@ -26,11 +26,7 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 </div>
 
 <p>
-  
-![Bruno Dorigon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula)
-</p>
 
-![Bruno Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&show_icons=true&theme=dracula)
 
 ### Contato ☎️📧
 
@@ -47,3 +43,9 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
+
+
+![Bruno Dorigon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula)
+</p>
+
+![Bruno Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&show_icons=true&theme=dracula)
