@@ -39,7 +39,7 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="mailto:bdorigonb@gmail.com">
+  <a href="mailto:bdorigon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
