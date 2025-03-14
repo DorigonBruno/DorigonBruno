@@ -6,6 +6,8 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
 
 </p>
 
+---
+
 ### Stacks 🚀
 
 <div style="display: flex; gap: 2px;">
@@ -44,6 +46,7 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
   </a>
 </div>
 
+---
 
 ![Bruno Dorigon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DorigonBruno&show_icons=true&theme=dracula)
 </p>
