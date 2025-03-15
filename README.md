@@ -4,7 +4,7 @@
 
 </div>
 
-<p>Desenvolvedor FrontEnd, Estudante de tecnologia e amante de games e animes nas horas vagas!
+<p>Desenvolvedor FrontEnd, Estudante de tecnologia e amante de games !!
 
 Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em contato ☕🙂
 
