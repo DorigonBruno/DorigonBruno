@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=7CD5FF&width=435&lines=Ol%C3%A1!+eu+sou+Bruno+Dorigon+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </div>
+<div align="center">
 
-<p>Desenvolvedor Front End, entusiasta de hardware e amante de Games!!
+<p >Desenvolvedor Front End, entusiasta de hardware e amante de Games!!
 
 Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em contato ☕🙂
 
 </p>
+</div>
 
 ---
 
