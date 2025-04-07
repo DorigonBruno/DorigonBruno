@@ -9,7 +9,7 @@
 
 <p >Desenvolvedor Front End, entusiasta de hardware e amante de Games!!
 
-Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em contato ☕🙂
+Fiz este portifólio com muito carinho, fique a vontade para explorar e entrar em contato ☕🙂
 
 </p>
 </div>
