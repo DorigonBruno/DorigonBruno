@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&height=200&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=7CD5FF&width=435&lines=Ol%C3%A1!+eu+sou+Bruno+Dorigon+%F0%9F%91%8B)](https://git.io/typing-svg)
 
@@ -63,3 +63,5 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&layout=compact&theme=dracula" width="400" height="200"  alt="Bruno Most Used Languages">
 
   </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
