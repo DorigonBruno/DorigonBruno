@@ -63,5 +63,3 @@ Fiz este portifólio com muito carinho, fica a vontade para explorar e entrar em
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorigonBruno&layout=compact&theme=dracula" width="400" height="200"  alt="Bruno Most Used Languages">
 
   </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
